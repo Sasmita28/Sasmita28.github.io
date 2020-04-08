@@ -1,2 +1,1 @@
-# Sasmita28.github.io
-Weather project
+# Web-Design-Challenge
